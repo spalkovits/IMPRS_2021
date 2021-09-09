@@ -1,0 +1,15 @@
+name: IMPRS_2021
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - tensorflow>2.0
+  - altair
+  - jupyterlab
+  - numpy
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - seaborn
+  - ipython
+  - pip
